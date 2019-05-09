@@ -1,0 +1,50 @@
+PODS:
+  - APIKit (4.0.0):
+    - Result (~> 4.0)
+  - Himotoki (3.2.0)
+  - ReactorKit (1.2.1):
+    - RxSwift (>= 4.0.0)
+  - Result (4.1.0)
+  - RxAtomic (4.4.1)
+  - RxCocoa (4.4.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.1):
+    - RxAtomic (~> 4.4)
+  - SnapKit (4.2.0)
+  - Then (2.4.0)
+
+DEPENDENCIES:
+  - APIKit
+  - Himotoki
+  - ReactorKit
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - Then
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - APIKit
+    - Himotoki
+    - ReactorKit
+    - Result
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - Then
+
+SPEC CHECKSUMS:
+  APIKit: 23ddce4be7eccd746d2ab3c62713cd80d5846d5a
+  Himotoki: 2618fc6b939ad6d9b71c52c90fe210f54ea28167
+  ReactorKit: 8be57f0527ad1ac2963cd5c338274a46a01e57a3
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
+  RxCocoa: 2f35a76bf8887872e28a1914112395b11b8e0e64
+  RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Then: 71866660c7af35a7343831f7668e7cd2b62ee0f2
+
+PODFILE CHECKSUM: 5432b3d69f124e86a4904ecc90d0a9f68095deff
+
+COCOAPODS: 1.6.0
